@@ -1,0 +1,31 @@
+{
+  "id": "6210452c-defc-401c-baa6-66c7a4fa9a9b",
+  "name": "LIB_MCA",
+  "publisher": "bho Inc",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
